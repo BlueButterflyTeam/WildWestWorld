@@ -130,6 +130,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BaseGameEntity.h" />
+    <ClInclude Include="DrunkMiner.h" />
+    <ClInclude Include="DrunkMinerOwnedStates.h" />
     <ClInclude Include="EntityNames.h" />
     <ClInclude Include="Locations.h" />
     <ClInclude Include="Miner.h" />

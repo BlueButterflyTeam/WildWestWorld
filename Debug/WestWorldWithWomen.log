@@ -1,0 +1,18 @@
+﻿  MinersWifeOwnedStates.cpp
+c:\users\paul\documents\cours\reposgit\wildwestworld\consoleutils.h(31): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: voir la déclaration de 'kbhit'
+  MinersWife.cpp
+c:\users\paul\documents\cours\reposgit\wildwestworld\consoleutils.h(31): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: voir la déclaration de 'kbhit'
+  MinerOwnedStates.cpp
+  Miner.cpp
+c:\users\paul\documents\cours\reposgit\wildwestworld\consoleutils.h(31): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: voir la déclaration de 'kbhit'
+  main.cpp
+c:\users\paul\documents\cours\reposgit\wildwestworld\consoleutils.h(31): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: voir la déclaration de 'kbhit'
+  BaseGameEntity.cpp
+  Génération de code en cours...
+BaseGameEntity.obj : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/SAFESEH'
+  WestWorldWithWomen.vcxproj -> C:\Users\Paul\Documents\Cours\ReposGit\WildWestWorld\.\Debug\WestWorldWithWomen.exe
+  WestWorldWithWomen.vcxproj -> .\Debug\WestWorldWithWomen.pdb (Full PDB)
